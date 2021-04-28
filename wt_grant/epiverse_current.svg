@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="epiverse.svg">
+   sodipodi:docname="epiverse_current.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -50,8 +50,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="351.93695"
-     inkscape:cy="548.80591"
+     inkscape:cx="425.10534"
+     inkscape:cy="572.02005"
      inkscape:document-units="mm"
      inkscape:current-layer="g3784-3-5"
      showgrid="false"
@@ -92,12 +92,12 @@
        id="g3784-3-5"
        transform="matrix(0.4574019,0,0,0.4574019,160.97332,19.205733)">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.09313057;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.09313059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1262"
          width="334.26044"
          height="227.66071"
-         x="-248.63538"
-         y="119.36839"
+         x="-250.84859"
+         y="123.26673"
          rx="2.7957387"
          ry="2.7957387"
          inkscape:export-xdpi="200"
@@ -1158,8 +1158,8 @@
       <ellipse
          style="fill:#ac93a7;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.65587837;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3729-6-6-87-1-8"
-         cx="-154.6546"
-         cy="326.74976"
+         cx="-163.07309"
+         cy="336.58072"
          rx="2.8167472"
          ry="2.8995919"
          inkscape:export-xdpi="200"
@@ -1237,8 +1237,8 @@
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200" />
       <path
-         style="fill:#ac93a7;fill-opacity:1;fill-rule:evenodd;stroke:#ac93a7;stroke-width:0.38335085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -156.32766,324.4171 -24.30257,-33.88374"
+         style="fill:#ac93a7;fill-opacity:1;fill-rule:evenodd;stroke:#ac93a7;stroke-width:0.38259569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -164.19247,333.91997 -182.08312,291.3943"
          id="path5222-5-7"
          inkscape:connector-type="polyline"
          inkscape:connector-curvature="3"
@@ -1295,7 +1295,7 @@
          inkscape:export-ydpi="200" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1;"
          x="-82.677307"
          y="304.40073"
          id="text4609-5-8-8-36"
@@ -1305,10 +1305,10 @@
            id="tspan4607-0-6-6-3"
            x="-82.677307"
            y="304.40073"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1">sccs</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1;">sccs</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1;"
          x="-63.844509"
          y="321.26068"
          id="text4609-1-2-2-04-3"
@@ -1318,7 +1318,7 @@
            id="tspan4607-1-94-4-6-4"
            x="-63.844509"
            y="321.26068"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1">powerSurvEpi</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1;">powerSurvEpi</tspan></text>
       <ellipse
          style="fill:#ac93a7;stroke-width:0.30435044"
          id="path3729-6-6-87-3-76-43"
@@ -2315,7 +2315,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d3bc5f;fill-opacity:1;stroke:#d3bc5f;stroke-width:0.11598368;stroke-opacity:1">socialmixr</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1;"
          x="-58.11171"
          y="310.50891"
          id="text4609-5-8-8-36-4"
@@ -2325,7 +2325,7 @@
            id="tspan4607-0-6-6-3-1"
            x="-58.11171"
            y="310.50891"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1">SimInf</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1;">SimInf</tspan></text>
       <ellipse
          style="fill:#d3bc5f;fill-opacity:1;stroke:none;stroke-width:0.11598368;stroke-opacity:1"
          id="path3729-5-5-6-3-4-0-1-65"
@@ -2553,7 +2553,7 @@
          inkscape:export-ydpi="200" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1;"
          x="-114.10845"
          y="336.75571"
          id="text4609-5-8-8-36-0"
@@ -2563,7 +2563,7 @@
            id="tspan4607-0-6-6-3-2"
            x="-114.10845"
            y="336.75571"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1">nosoi</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1;">nosoi</tspan></text>
       <path
          style="fill:#ac93a7;fill-opacity:1;fill-rule:evenodd;stroke:#ac93a7;stroke-width:0.38328469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m -103.82126,324.98507 -3.46985,3.63174"
@@ -2628,17 +2628,17 @@
          inkscape:export-ydpi="200" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1"
-         x="-170.23096"
-         y="334.36621"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1"
+         x="-179.67201"
+         y="343.905"
          id="text4609-1-2-2-04-3-6"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"><tspan
            sodipodi:role="line"
            id="tspan4607-1-94-4-6-4-9"
-           x="-170.23096"
-           y="334.36621"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1">fluEvidenceSynthesis</tspan></text>
+           x="-179.67201"
+           y="343.905"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1">fluEvidenceSynthesis</tspan></text>
       <ellipse
          style="fill:#ac93a7;stroke-width:0.11598368"
          id="path3729-1-6-94-6-5"
@@ -2734,7 +2734,7 @@
          inkscape:export-ydpi="200" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1;"
          x="-145.68585"
          y="318.33377"
          id="text4609-1-2-2-04-2-2-6"
@@ -2743,7 +2743,7 @@
            sodipodi:role="line"
            x="-145.68585"
            y="318.33377"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#67536c;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598368;stroke-opacity:1;"
            id="tspan1306">sircovid</tspan></text>
       <path
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#ac93a7;stroke-width:0.38328469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3168,12 +3168,54 @@
          inkscape:export-ydpi="200" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#ac93a7;stroke-width:0.38259569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -151.85952,326.39103 45.88655,-5.88924"
+         d="m -160.34479,335.86003 54.54706,-14.40847"
          id="path1933"
          inkscape:connector-type="polyline"
          inkscape:connector-curvature="3"
          inkscape:connection-start="#path3729-6-6-87-1-8"
          inkscape:connection-end="#path3729-6-6-87-3-76-43"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <ellipse
+         style="fill:#ac93a7;stroke-width:0.11598369"
+         id="path3729-1-6-94-6-4-3-3"
+         cx="-156.88727"
+         cy="321.22086"
+         rx="2.8167472"
+         ry="2.8995914"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;line-height:1.25;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598369;stroke-opacity:1"
+         x="-162.97958"
+         y="328.02646"
+         id="text4609-1-2-2-04-3-6-6"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
+           sodipodi:role="line"
+           id="tspan4607-1-94-4-6-4-9-7"
+           x="-162.97958"
+           y="328.02646"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85632181px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ac93a7;fill-opacity:1;stroke:#ac93a7;stroke-width:0.11598369;stroke-opacity:1">PyRoss</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ac93a7;stroke-width:0.38259569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -154.07164,321.1406 48.04477,-1.36954"
+         id="path1296"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="3"
+         inkscape:connection-start="#path3729-1-6-94-6-4-3-3"
+         inkscape:connection-end="#path3729-6-6-87-3-76-43"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ac93a7;stroke-width:0.38259569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -158.62896,318.94209 -21.82117,-28.55011"
+         id="path1298"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="3"
+         inkscape:connection-start="#path3729-1-6-94-6-4-3-3"
+         inkscape:connection-end="#path3729-6-6-87-3-76-7"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200" />
     </g>
