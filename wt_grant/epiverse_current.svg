@@ -50,8 +50,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="374.61463"
-     inkscape:cy="550.76257"
+     inkscape:cx="467.82892"
+     inkscape:cy="585.76257"
      inkscape:document-units="mm"
      inkscape:current-layer="g3784-3-5"
      showgrid="false"
@@ -1209,7 +1209,7 @@
          inkscape:export-ydpi="200" />
       <path
          style="fill:#ac93a7;fill-opacity:1;fill-rule:evenodd;stroke:#ac93a7;stroke-width:0.38259569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -175.82789,330.53822 -7.70716,-38.67254"
+         d="m -175.82789,330.53822 -7.70717,-38.67254"
          id="path5222-5-7"
          inkscape:connector-type="polyline"
          inkscape:connector-curvature="3"
@@ -2375,7 +2375,7 @@
          inkscape:export-ydpi="200" />
       <path
          style="fill:#ac93a7;fill-opacity:1;fill-rule:evenodd;stroke:#ac93a7;stroke-width:0.38328469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -204.49982,300.56298 13.72303,-11.37801"
+         d="m -204.49982,300.56297 13.72302,-11.378"
          id="path6778"
          inkscape:connector-type="polyline"
          inkscape:connector-curvature="3"
@@ -3096,7 +3096,7 @@
          inkscape:export-ydpi="200" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#ac93a7;stroke-width:0.38259569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -172.48736,332.87825 66.56849,-12.00485"
+         d="m -172.48736,332.87826 66.56849,-12.00486"
          id="path1933"
          inkscape:connector-type="polyline"
          inkscape:connector-curvature="3"
@@ -3227,16 +3227,6 @@
          inkscape:export-ydpi="200"
          inkscape:connection-end="#path3729-7-2-9-25-7"
          inkscape:connection-start="#path3729-6-6-87-1" />
-      <path
-         style="display:inline;fill:#93ac93;fill-opacity:1;fill-rule:evenodd;stroke:#93ac93;stroke-width:0.27557266px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 24.542801,298.95834 -351.92971,-41.988748"
-         id="path1200-9"
-         inkscape:connector-type="polyline"
-         inkscape:connector-curvature="3"
-         inkscape:export-xdpi="200"
-         inkscape:export-ydpi="200"
-         inkscape:connection-end="#path3729-5-5-6-78-37-1"
-         inkscape:connection-start="#path3729-6-6-87-3-76-48" />
       <ellipse
          style="fill:#93ac93;stroke:#3771c8;stroke-width:0.65587837;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3729-5-5-6-78-37-1"
