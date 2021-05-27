@@ -23,6 +23,20 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
+       id="marker1190"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path936"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#808080;stroke-width:1pt;stroke-opacity:1;fill:#808080;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
        id="Arrow1Mend"
        style="overflow:visible;"
        inkscape:isstock="true">
@@ -68,9 +82,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="693.07445"
-     inkscape:cy="667.96802"
+     inkscape:zoom="1.4"
+     inkscape:cx="421.23875"
+     inkscape:cy="612.95512"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -78,7 +92,8 @@
      inkscape:window-height="1083"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -87,7 +102,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -138,18 +153,18 @@
          height="29.38806"
          width="29.38806"
          id="rect817-7-2"
-         style="opacity:1;fill:#edd36b;fill-opacity:1;stroke:none;stroke-width:0.14952132;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#f6a76f;fill-opacity:1;stroke:none;stroke-width:0.14952132;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text1430-4"
          y="171.66599"
-         x="157.39935"
+         x="155.83858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.68935966px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34223399"
          xml:space="preserve"><tspan
            style="fill:#ffffff;stroke-width:0.34223399"
            y="171.66599"
-           x="157.39935"
+           x="155.83858"
            id="tspan1428-8"
-           sodipodi:role="line">L</tspan></text>
+           sodipodi:role="line">M</tspan></text>
     </g>
     <g
        id="g1668"
@@ -521,40 +536,60 @@
        d="m 133.03362,92.327457 -1.94869,-0.924307 -0.86239,1.976866 -0.17387,-2.149765 -2.14321,0.241581 1.77482,-1.225457 -1.28082,-1.735285 1.94868,0.924307 0.86239,-1.976866 0.17387,2.149764 2.14321,-0.24158 -1.77481,1.225457 z"
        inkscape:transform-center-x="0.24700251"
        inkscape:transform-center-y="-0.5262796" />
-    <path
-       sodipodi:type="star"
-       style="opacity:1;fill:#6f916f;fill-opacity:1;stroke:none;stroke-width:0.3512426;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path1941-0"
-       sodipodi:sides="6"
-       sodipodi:cx="62.084812"
-       sodipodi:cy="195.87485"
-       sodipodi:r1="3.0016706"
-       sodipodi:r2="1.0505847"
-       sodipodi:arg1="0.68892439"
-       sodipodi:arg2="1.2125232"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 64.401892,197.78303 -1.948684,-0.92431 -0.862391,1.97687 -0.173869,-2.14976 -2.143212,0.24158 1.774816,-1.22546 -1.28082,-1.73529 1.948685,0.92431 0.862391,-1.97686 0.173868,2.14976 2.143212,-0.24158 -1.774816,1.22546 z"
-       inkscape:transform-center-x="0.24700251"
-       inkscape:transform-center-y="-0.5262796" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82036781px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07050919"
-       x="67.094704"
-       y="197.63902"
-       id="text1532-5"><tspan
-         sodipodi:role="line"
-         id="tspan1530-6"
-         x="67.094704"
+    <g
+       id="g2018"
+       transform="translate(-24.321528,-1.8708827)">
+      <path
+         inkscape:transform-center-y="-0.5262796"
+         inkscape:transform-center-x="0.24700251"
+         d="m 64.401892,197.78303 -1.948684,-0.92431 -0.862391,1.97687 -0.173869,-2.14976 -2.143212,0.24158 1.774816,-1.22546 -1.28082,-1.73529 1.948685,0.92431 0.862391,-1.97686 0.173868,2.14976 2.143212,-0.24158 -1.774816,1.22546 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.2125232"
+         sodipodi:arg1="0.68892439"
+         sodipodi:r2="1.0505847"
+         sodipodi:r1="3.0016706"
+         sodipodi:cy="195.87485"
+         sodipodi:cx="62.084812"
+         sodipodi:sides="6"
+         id="path1941-0"
+         style="opacity:1;fill:#6f916f;fill-opacity:1;stroke:none;stroke-width:0.3512426;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         id="text1532-5"
          y="197.63902"
-         style="stroke-width:0.07050919">For incidence &gt;100%, any significantly postivive <tspan
-   style="font-style:italic;stroke-width:0.07050919"
-   id="tspan1976">r </tspan></tspan><tspan
-         sodipodi:role="line"
          x="67.094704"
-         y="201.16449"
-         style="stroke-width:0.07050919"
-         id="tspan1980">should be considered</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82036781px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07050919"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.07050919"
+           y="197.63902"
+           x="67.094704"
+           id="tspan1530-6"
+           sodipodi:role="line">For incidence &gt;100%, any significantly postivive <tspan
+   id="tspan1976"
+   style="font-style:italic;stroke-width:0.07050919">r </tspan></tspan><tspan
+           id="tspan1980"
+           style="stroke-width:0.07050919"
+           y="201.16449"
+           x="67.094704"
+           sodipodi:role="line">should be considered</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.45079345;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1190)"
+       d="M 99.840327,80.444527 H 153.54148"
+       id="path925"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1532-5-5"
+       y="76.609253"
+       x="104.03996"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.37246513px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.08431161"
+       xml:space="preserve"><tspan
+         id="tspan1980-7"
+         style="fill:#666666;stroke-width:0.08431161"
+         y="76.609253"
+         x="104.03996"
+         sodipodi:role="line">Acceleration = shift 1 step right</tspan></text>
   </g>
 </svg>
