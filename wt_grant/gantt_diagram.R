@@ -2,7 +2,7 @@
 
 
 ## Dependencies
-pacman::p_load(googlesheets4)
+pacman::p_load(googlesheets4, Cairo)
 if (!require(ganttrify)) {
   remotes::install_github("giocomai/ganttrify")
   require(ganttrify)
@@ -25,13 +25,14 @@ gantt <- ganttrify(activities,
                    font_family = "Roboto Condensed",
                    month_break = 3,
                    mark_quarters = TRUE,
+                   line_end = "square",
                    colour_palette = my_pal,
-                   alpha_wp = 0.9)
+                   alpha_wp = 0.9,
+                   size_wp = 5, size_activity = 3)
 gantt
 
-png("gant_wt.png", width = 1400, height = 800, res = 150)
 
-print(gantt)
+# pdf version
+ggsave(gantt, file = "gantt_wt.pdf", dev = CairoPDF, width = 12, height = 8)
 
-dev.off()
 
