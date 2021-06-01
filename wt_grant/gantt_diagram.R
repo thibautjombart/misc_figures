@@ -2,7 +2,7 @@
 
 
 ## Dependencies
-pacman::p_load(googlesheets4, Cairo)
+pacman::p_load(googlesheets4, Cairo, ggplot2)
 if (!require(ganttrify)) {
   remotes::install_github("giocomai/ganttrify")
   require(ganttrify)
@@ -17,7 +17,8 @@ my_pal <- c("#e0c559",
             "#df757e",
             "#93ac93",
             "#ac9393",
-            "#87aade")
+            "#87aade",
+            "grey")
 
 gantt <- ganttrify(activities,
                    spots = miles,
@@ -33,6 +34,6 @@ gantt
 
 
 # pdf version
-ggsave(gantt, file = "gantt_wt.pdf", dev = CairoPDF, width = 12, height = 8)
+ggplot2::ggsave(gantt, file = "gantt_wt.pdf", dev = CairoPDF, width = 12, height = 8)
 
 
