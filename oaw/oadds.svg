@@ -587,9 +587,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="317.31619"
-     inkscape:cy="710.74516"
+     inkscape:zoom="0.98994951"
+     inkscape:cx="236.5664"
+     inkscape:cy="774.74862"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -611,7 +611,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -619,40 +619,36 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g5954"
-       transform="matrix(2.0447858,-0.20231387,0.20231387,2.0447858,-125.28359,-78.83584)">
-      <path
-         id="path5440-9-5"
-         d="M 102.27314,73.301945 A 28.064733,28.064733 0 0 0 74.208189,101.3669 28.064733,28.064733 0 0 0 102.27314,129.43185 28.064733,28.064733 0 0 0 130.33758,101.3669 28.064733,28.064733 0 0 0 102.27314,73.301945 Z m 0,10.583333 A 17.481398,17.481398 0 0 1 119.75425,101.3669 17.481398,17.481398 0 0 1 102.27314,118.84852 17.481398,17.481398 0 0 1 84.791519,101.3669 17.481398,17.481398 0 0 1 102.27314,83.885278 Z"
-         style="opacity:0.5;fill:#ffaaaa;fill-opacity:0.65384617;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5483-4-5-3-47"
-         d="m 90.060879,107.41366 -10.30816,-2.43913 -7.20606,9.07982"
-         style="fill:none;stroke:#ffffff;stroke-width:1.99253881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5483-4-5-3-7-4"
-         d="m 92.192759,92.418731 -5.63385,-8.970353 -11.50526,1.414049"
-         style="fill:none;stroke:#ffffff;stroke-width:1.99253893;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5483-4-5-3-4-4"
-         d="m 111.9387,90.828612 10.59029,0.230779 5.14916,-10.385402"
-         style="fill:none;stroke:#ffffff;stroke-width:1.99253893;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5483-4-5-3-5-3"
-         d="m 115.63433,103.22588 5.45149,9.08233 11.53148,-1.18134"
-         style="fill:none;stroke:#ffffff;stroke-width:1.99253893;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5483-4-5-3-2-0"
-         d="m 104.73965,115.3031 -6.120953,8.6453 5.721573,10.08135"
-         style="fill:none;stroke:#ffffff;stroke-width:1.99253893;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#5f8dd3;fill-opacity:0.65384617;stroke:none;stroke-width:1.66163409;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 99.694452,62.284953 a 46.633317,46.633317 0 0 0 -41.815504,50.998667 46.633317,46.633317 0 0 0 50.998662,41.8155 46.633317,46.633317 0 0 0 41.81466,-50.99857 46.633317,46.633317 0 0 0 -50.997818,-41.815597 z m 1.731488,17.500179 a 29.047687,29.047687 0 0 1 31.76616,26.046908 29.047687,29.047687 0 0 1 -26.04598,31.76691 29.047687,29.047687 0 0 1 -31.767,-26.04681 29.047687,29.047687 0 0 1 26.04682,-31.767008 z"
+       id="path5440-9-5" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.31087065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.081607,120.68872 67.637389,118.34194 57.207244,134.53492"
+       id="path5483-4-5-3-47"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.31087065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 86.153546,95.544914 75.370037,81.633625 56.576745,85.854163"
+       id="path5483-4-5-3-7-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.31087065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 118.54449,89.685013 17.54945,-1.351022 6.81533,-18.015318"
+       id="path5483-4-5-3-4-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.31087065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 126.6837,109.58001 10.50028,14.12629 18.87473,-3.84003"
+       id="path5483-4-5-3-5-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.31087065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 110.6446,131.33286 -8.70695,15.29694 11.11033,15.73404"
+       id="path5483-4-5-3-2-0"
+       inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1432"
@@ -827,146 +823,126 @@
              id="rect894-6-8-1-4-3-2" /></flowRegion><flowPara
            id="flowPara1143-6"
            style="line-height:1;fill:#ffffff;stroke:none">Results communication</flowPara></flowRoot>    </g>
-    <g
-       transform="matrix(0.7423154,0,0,0.7423154,-16.902189,-4.523063)"
-       id="g1682">
-      <rect
-         ry="3.0284636"
-         rx="2.4176271"
-         y="78.798225"
-         x="139.09779"
-         height="20.442257"
-         width="48.957256"
-         id="rect834-5-0"
-         style="opacity:1;fill:#5f8dd3;fill-opacity:1;stroke:#5f8dd3;stroke-width:0.26845741;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,19.279801,13.107542)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowRoot890-9"
-         xml:space="preserve"><flowRegion
-           style="stroke:none"
-           id="flowRegion892-3"><rect
-             style="stroke:none"
-             y="260.67392"
-             x="440.87976"
-             height="66.511742"
-             width="206.36955"
-             id="rect894-6" /></flowRegion><flowPara
-           id="flowPara948"
-           style="line-height:1;fill:#ffffff;stroke:none">Projects backlog</flowPara></flowRoot>    </g>
-    <g
-       transform="matrix(0.7423154,0,0,0.7423154,-53.419647,18.243717)"
-       id="g1698">
-      <rect
-         ry="3.0284636"
-         rx="2.4176271"
-         y="159.82323"
-         x="232.92061"
-         height="20.442257"
-         width="48.95726"
-         id="rect834-5-0-3-6"
-         style="opacity:1;fill:#5f8dd3;fill-opacity:1;stroke:#5f8dd3;stroke-width:0.26845741;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,113.5436,94.81639)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowRoot890-9-67-2"
-         xml:space="preserve"><flowRegion
-           style="stroke:none"
-           id="flowRegion892-3-5-9"><rect
-             style="stroke:none"
-             y="260.67392"
-             x="440.87976"
-             height="66.511742"
-             width="206.36955"
-             id="rect894-6-3-1" /></flowRegion><flowPara
-           style="line-height:1;fill:#ffffff;stroke:none"
-           id="flowPara1555-7">Sprint </flowPara><flowPara
-           style="line-height:1;fill:#ffffff;stroke:none"
-           id="flowPara1589">TODO list</flowPara></flowRoot>    </g>
-    <g
-       transform="matrix(0.7423154,0,0,0.7423154,-85.969429,-16.86495)"
-       id="g1705">
-      <rect
-         ry="3.0284636"
-         rx="2.4176271"
-         y="207.11938"
-         x="191.84837"
-         height="20.442257"
-         width="48.95726"
-         id="rect834-5-0-3-6-0"
-         style="opacity:1;fill:#5f8dd3;fill-opacity:1;stroke:#5f8dd3;stroke-width:0.26845741;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,72.150972,145.58177)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowRoot890-9-67-2-9"
-         xml:space="preserve"><flowRegion
-           style="stroke:none"
-           id="flowRegion892-3-5-9-3"><rect
-             style="stroke:none"
-             y="260.67392"
-             x="440.87976"
-             height="66.511742"
-             width="206.36955"
-             id="rect894-6-3-1-6" /></flowRegion><flowPara
-           style="line-height:1;fill:#ffffff;stroke:none"
-           id="flowPara1589-6">MVP</flowPara></flowRoot>    </g>
-    <g
-       transform="matrix(0.7423154,0,0,0.7423154,-29.428368,18.789115)"
-       id="g1690">
-      <rect
-         ry="3.0284636"
-         rx="2.4176271"
-         y="102.56236"
-         x="218.65562"
-         height="20.442257"
-         width="48.95726"
-         id="rect834-5-0-3"
-         style="opacity:1;fill:#5f8dd3;fill-opacity:1;stroke:#5f8dd3;stroke-width:0.26845741;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,99.271727,36.871675)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowRoot890-9-67"
-         xml:space="preserve"><flowRegion
-           style="stroke:none"
-           id="flowRegion892-3-5"><rect
-             style="stroke:none"
-             y="260.67392"
-             x="440.87976"
-             height="66.511742"
-             width="206.36955"
-             id="rect894-6-3" /></flowRegion><flowPara
-           id="flowPara948-5"
-           style="line-height:1;fill:#ffffff;stroke:none">Score board</flowPara><flowPara
-           style="line-height:1;fill:#ffffff;stroke:none"
-           id="flowPara1555">(priorities)</flowPara></flowRoot>    </g>
-    <g
-       transform="matrix(0.7423154,0,0,0.7423154,-64.084716,-81.929574)"
-       id="g1712">
-      <rect
-         ry="3.0284636"
-         rx="2.4176271"
-         y="237.46523"
-         x="136.57365"
-         height="20.442257"
-         width="48.95726"
-         id="rect834-5-0-3-6-0-2"
-         style="opacity:1;fill:#5f8dd3;fill-opacity:1;stroke:#5f8dd3;stroke-width:0.26845741;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,17.189759,175.30232)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowRoot890-9-67-2-9-6"
-         xml:space="preserve"><flowRegion
-           style="stroke:none"
-           id="flowRegion892-3-5-9-3-1"><rect
-             style="stroke:none"
-             y="260.67392"
-             x="440.87976"
-             height="66.511742"
-             width="206.36955"
-             id="rect894-6-3-1-6-8" /></flowRegion><flowPara
-           style="line-height:1;fill:#ffffff;stroke:none"
-           id="flowPara1589-6-7">Sprint log</flowPara></flowRoot>    </g>
-    <g
+    <rect
+       style="opacity:1;fill:#806885;fill-opacity:1;stroke:#8a6f91;stroke-width:0.16115212;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect834-5-0"
+       width="29.388519"
+       height="12.271271"
+       x="89.730942"
+       y="65.20459"
+       rx="1.4512758"
+       ry="1.8179545" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot890-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.15882656,0,0,0.15882656,17.805481,25.771173)"><flowRegion
+         id="flowRegion892-3"
+         style="stroke:none"><rect
+           id="rect894-6"
+           width="206.36955"
+           height="66.511742"
+           x="440.87976"
+           y="260.67392"
+           style="stroke:none" /></flowRegion><flowPara
+         style="line-height:1;fill:#ffffff;stroke:none"
+         id="flowPara948">Projects backlog</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#806885;fill-opacity:1;stroke:#8a6f91;stroke-width:0.16115212;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect834-5-0-3-6"
+       width="29.388523"
+       height="12.271271"
+       x="116.52116"
+       y="132.25389"
+       rx="1.4512758"
+       ry="1.8179545" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot890-9-67-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.15882656,0,0,0.15882656,44.860407,93.230972)"><flowRegion
+         id="flowRegion892-3-5-9"
+         style="stroke:none"><rect
+           id="rect894-6-3-1"
+           width="206.36955"
+           height="66.511742"
+           x="440.87976"
+           y="260.67392"
+           style="stroke:none" /></flowRegion><flowPara
+         id="flowPara1555-7"
+         style="line-height:1;fill:#ffffff;stroke:none">Sprint </flowPara><flowPara
+         id="flowPara1589"
+         style="line-height:1;fill:#ffffff;stroke:none">TODO list</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#806885;fill-opacity:1;stroke:#8a6f91;stroke-width:0.16115212;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect834-5-0-3-6-0"
+       width="29.388523"
+       height="12.271271"
+       x="65.543846"
+       y="132.25389"
+       rx="1.4512758"
+       ry="1.8179545" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot890-9-67-2-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.15882656,0,0,0.15882656,-6.3092304,95.313509)"><flowRegion
+         id="flowRegion892-3-5-9-3"
+         style="stroke:none"><rect
+           id="rect894-6-3-1-6"
+           width="206.36955"
+           height="66.511742"
+           x="440.87976"
+           y="260.67392"
+           style="stroke:none" /></flowRegion><flowPara
+         id="flowPara1589-6"
+         style="line-height:1;fill:#ffffff;stroke:none">MVP</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#806885;fill-opacity:1;stroke:#8a6f91;stroke-width:0.16115212;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect834-5-0-3"
+       width="29.388523"
+       height="12.271271"
+       x="127.3591"
+       y="98.321846"
+       rx="1.4512758"
+       ry="1.8179545" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot890-9-67"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.15882656,0,0,0.15882656,55.694219,58.888424)"><flowRegion
+         id="flowRegion892-3-5"
+         style="stroke:none"><rect
+           id="rect894-6-3"
+           width="206.36955"
+           height="66.511742"
+           x="440.87976"
+           y="260.67392"
+           style="stroke:none" /></flowRegion><flowPara
+         style="line-height:1;fill:#ffffff;stroke:none"
+         id="flowPara948-5">Score board</flowPara><flowPara
+         id="flowPara1555"
+         style="line-height:1;fill:#ffffff;stroke:none">(priorities)</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#806885;fill-opacity:1;stroke:#8a6f91;stroke-width:0.16115212;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect834-5-0-3-6-0-2"
+       width="29.388523"
+       height="12.271271"
+       x="50.060562"
+       y="97.854256"
+       rx="1.4512758"
+       ry="1.8179545" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot890-9-67-2-9-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.15882656,0,0,0.15882656,-21.604317,60.538527)"><flowRegion
+         id="flowRegion892-3-5-9-3-1"
+         style="stroke:none"><rect
+           id="rect894-6-3-1-6-8"
+           width="206.36955"
+           height="66.511742"
+           x="440.87976"
+           y="260.67392"
+           style="stroke:none" /></flowRegion><flowPara
+         id="flowPara1589-6-7"
+         style="line-height:1;fill:#ffffff;stroke:none">Sprint log</flowPara></flowRoot>    <g
        id="g1298"
        transform="matrix(0.9406357,0,0,0.9406357,-244.58757,-100.20216)">
       <rect
@@ -1304,19 +1280,19 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <flowRoot
-       transform="matrix(0.19640428,0,0,0.19640428,58.921697,18.09079)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#e9afaf;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.12706124,0,0,0.12706124,78.82956,42.312774)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot890-9-67-22"
        xml:space="preserve"><flowRegion
-         style="fill:#e9afaf;stroke:none"
+         style="fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowRegion892-3-5-8"><rect
-           style="fill:#e9afaf;stroke:none"
+           style="fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
            y="260.67392"
            x="440.87976"
            height="66.511742"
            width="206.36955"
            id="rect894-6-3-9" /></flowRegion><flowPara
-         style="line-height:1;fill:#e9afaf;stroke:none"
+         style="line-height:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowPara1555-3">Scoring</flowPara></flowRoot>    <path
        style="opacity:0.5;fill:#ffaaaa;fill-opacity:0.65384617;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 250.50257,58.86809 3.87541,5.291667 3.8754,-5.291667 c 0,0 0,15.501631 0,23.252443 0,7.750821 0,23.252447 0,23.252447 l -3.8754,5.29167 -3.87541,-5.29167 c 0,0 0,-15.501626 0,-23.252447 0,-7.750812 0,-23.252443 0,-23.252443 z"
@@ -1361,65 +1337,65 @@
        id="path5483-4-5"
        inkscape:connector-curvature="0" />
     <flowRoot
-       transform="matrix(0.19640428,0,0,0.19640428,67.903864,74.19277)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#e9afaf;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.12706124,0,0,0.12706124,90.006184,87.244158)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot890-9-67-22-0"
        xml:space="preserve"><flowRegion
-         style="fill:#e9afaf;stroke:none"
+         style="fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowRegion892-3-5-8-3"><rect
-           style="fill:#e9afaf;stroke:none"
+           style="fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
            y="260.67392"
            x="440.87976"
            height="104.09839"
            width="209.59128"
            id="rect894-6-3-9-6" /></flowRegion><flowPara
-         style="line-height:1;fill:#e9afaf;stroke:none"
+         style="line-height:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowPara1555-3-0">Task breakdown (using OAW)</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.19640428,0,0,0.19640428,-1.7827338,121.14267)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#e9afaf;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.12706124,0,0,0.12706124,35.019942,125.21996)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot890-9-67-22-0-6"
        xml:space="preserve"><flowRegion
-         style="fill:#e9afaf;stroke:none"
+         style="fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowRegion892-3-5-8-3-3"><rect
-           style="fill:#e9afaf;stroke:none"
+           style="fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
            y="260.67392"
            x="440.87976"
            height="104.09839"
            width="209.59128"
            id="rect894-6-3-9-6-2" /></flowRegion><flowPara
-         style="line-height:1;fill:#e9afaf;stroke:none"
+         style="line-height:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowPara1555-3-0-0">Sprint</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.19640428,0,0,0.19640428,-72.229799,72.420295)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#e9afaf;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.12706124,0,0,0.12706124,-17.304332,88.41087)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot890-9-67-22-0-61"
        xml:space="preserve"><flowRegion
-         style="fill:#e9afaf;stroke:none"
+         style="fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowRegion892-3-5-8-3-5"><rect
-           style="fill:#e9afaf;stroke:none"
+           style="fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
            y="260.67392"
            x="440.87976"
            height="104.09839"
            width="209.59128"
            id="rect894-6-3-9-6-5" /></flowRegion><flowPara
-         style="line-height:1;fill:#e9afaf;stroke:none"
+         style="line-height:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowPara1555-3-0-4">Sprint </flowPara><flowPara
-         style="line-height:1;fill:#e9afaf;stroke:none"
+         style="line-height:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowPara5619">review</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.19640428,0,0,0.19640428,-77.143471,11.569525)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#e9afaf;fill-opacity:1;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.12706124,0,0,0.12706124,-18.266705,40.33729)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot890-9-67-22-0-7"
        xml:space="preserve"><flowRegion
-         style="fill:#e9afaf;stroke:none"
+         style="fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowRegion892-3-5-8-3-6"><rect
-           style="fill:#e9afaf;stroke:none"
+           style="fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
            y="260.67392"
            x="440.87976"
            height="104.09839"
            width="209.59128"
            id="rect894-6-3-9-6-56" /></flowRegion><flowPara
-         style="line-height:1;fill:#e9afaf;stroke:none"
+         style="line-height:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowPara1555-3-0-9">Project review</flowPara><flowPara
-         style="line-height:1;fill:#e9afaf;stroke:none"
+         style="line-height:1;fill:#5e8cd1;fill-opacity:0.94230772;stroke:none"
          id="flowPara5621">(re-scoring and timeliness)</flowPara></flowRoot>    <path
        style="fill:none;stroke:#ffffff;stroke-width:1.99253869;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 214.19573,-23.902639 -10.30816,-2.439129 -7.20606,9.07982"
