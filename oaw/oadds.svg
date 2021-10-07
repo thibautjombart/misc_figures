@@ -663,8 +663,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="432.28853"
-     inkscape:cy="523.62315"
+     inkscape:cx="184.80116"
+     inkscape:cy="514.50374"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1842,45 +1842,6 @@
        d="m 231.81979,-16.164587 -5.75096,8.8957257 6.14164,9.8311059"
        id="path5483-4-5-3-2"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#806885;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="59.333832"
-       y="-2.973243"
-       id="text1594-7-5-2"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"><tspan
-         sodipodi:role="line"
-         id="tspan1592-9-9-2"
-         x="59.333832"
-         y="-2.973243"
-         style="font-size:3.52777767px;fill:#806885;fill-opacity:1;stroke:#ffffff;stroke-width:0">+</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#806885;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="72.162773"
-       y="-2.973243"
-       id="text1594-7-5-8"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"><tspan
-         sodipodi:role="line"
-         id="tspan1592-9-9-9"
-         x="72.162773"
-         y="-2.973243"
-         style="font-size:3.52777767px;fill:#806885;fill-opacity:1;stroke:#ffffff;stroke-width:0">++</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#806885;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="86.19442"
-       y="-2.973243"
-       id="text1594-7-5-7"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150"><tspan
-         sodipodi:role="line"
-         id="tspan1592-9-9-3"
-         x="86.19442"
-         y="-2.973243"
-         style="font-size:3.52777767px;fill:#806885;fill-opacity:1;stroke:#ffffff;stroke-width:0">+++</tspan></text>
     <g
        id="g2242"
        transform="matrix(1.1060432,0,0,1,17.871333,11.9028)"
