@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -18,6 +19,18 @@
    sodipodi:docname="prioritisation.svg">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1717">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop1713" />
+      <stop
+         style="stop-color:#dca07a;stop-opacity:0;"
+         offset="1"
+         id="stop1715" />
+    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="-167.84526 : 119.10035 : 1"
@@ -658,6 +671,17 @@
          style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.4,0,0,-0.4,-4,0)" />
     </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1717"
+       id="radialGradient1725"
+       cx="75.86927"
+       cy="132.98044"
+       fx="75.86927"
+       fy="132.98044"
+       r="7.0384727"
+       gradientTransform="matrix(1.2819326,0,0,1.2664111,-21.257731,-35.932612)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -666,11 +690,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="398.3441"
-     inkscape:cy="771.6736"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="476.77632"
+     inkscape:cy="677.70285"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2322"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1083"
@@ -703,7 +727,7 @@
        id="rect1432-5"
        width="169.72763"
        height="128.99132"
-       x="21.834112"
+       x="21.900257"
        y="57.022766"
        rx="3.0237906"
        ry="3.0237906"
@@ -1809,7 +1833,7 @@
        inkscape:export-ydpi="200" />
     <g
        id="g2021-1"
-       transform="translate(-65.514213,69.809439)"
+       transform="translate(-66.04338,69.809439)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
       <rect
@@ -1851,18 +1875,9 @@
              y="570.01971"
              style="fill:#ffffff" /></flowRegion><flowPara
            id="flowPara2072">Worthwil gamle</flowPara></flowRoot>    </g>
-    <ellipse
-       cy="102.74332"
-       cx="71.692604"
-       id="path1779-7-3-9"
-       style="opacity:1;fill:#dca07a;fill-opacity:1;stroke:#dca07a;stroke-width:0.49420181;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="5.6069288"
-       ry="2.1011994"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
     <g
        id="g2322"
-       transform="translate(1.8708867,-6.9222808)"
+       transform="translate(4.3030394,-23.666717)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
       <rect
@@ -1873,23 +1888,27 @@
          height="12.139843"
          width="28.162251"
          id="rect1795-7-2-2-8"
-         style="opacity:1;fill:#dca07a;fill-opacity:1;stroke:none;stroke-width:0.23383129;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#dca07a;fill-opacity:1;stroke:none;stroke-width:0.23383129;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
       <text
          id="text1785-9-8-9-4"
          y="128.16484"
          x="38.76622"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.28481865px;line-height:1.25;font-family:Trebuchet;-inkscape-font-specification:Trebuchet;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:0.96634617;stroke:none;stroke-width:0.20243239;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97115383"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200"><tspan
            style="fill:#ffffff;fill-opacity:0.96634617;stroke:none;stroke-width:0.20243239;stroke-opacity:0.97115383"
            y="128.16484"
-           x="39.447231"
+           x="38.76622"
            sodipodi:role="line"
-           id="tspan2074-0">Trival </tspan><tspan
+           id="tspan1737">Pointless</tspan><tspan
            style="fill:#ffffff;fill-opacity:0.96634617;stroke:none;stroke-width:0.20243239;stroke-opacity:0.97115383"
            y="133.52086"
            x="38.76622"
            sodipodi:role="line"
-           id="tspan2123">tasks</tspan></text>
+           id="tspan1741">projects</tspan></text>
     </g>
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-134.40834,-21.431254)"
@@ -1962,8 +1981,8 @@
        id="rect2125-5"
        width="1.8391691"
        height="1.7770784"
-       x="-148.5661"
-       y="159.76004"
+       x="-148.0372"
+       y="159.7618"
        rx="0"
        ry="0"
        transform="matrix(-0.99999464,-0.00327282,-0.15253916,0.98829743,0,0)"
@@ -1973,7 +1992,7 @@
        inkscape:export-ydpi="200" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#8787de;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 124.87317,155.64685 -6.34855,13.23616"
+       d="m 124.344,155.64685 -6.34855,13.23616"
        id="path1781-8-2-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -2089,20 +2108,44 @@
        id="rect2125"
        width="1.8391691"
        height="1.7770784"
-       x="50.055229"
-       y="101.15319"
+       x="81.078545"
+       y="105.69573"
        rx="0"
        ry="0"
-       transform="matrix(0.99964975,0.02646473,0.12308344,0.99239633,0,0)"
+       transform="matrix(0.95331928,0.30196415,-0.15624532,0.98771828,0,0)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#dca07a;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 71.181637,102.61114 -17.45649,-0.0501 -3.645,15.28079"
+       d="M 66.926579,131.93453 43.219308,125.9313 43.20098,111.94578"
        id="path1781-8-2-6-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200" />
+    <g
+       id="g1729"
+       transform="translate(-0.13229167,2.1166667)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <ellipse
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         ry="10.547224"
+         rx="10.676493"
+         style="opacity:1;fill:#dca07a;fill-opacity:0.71634617;stroke:none;stroke-width:1.52788818;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1779-7-3-9"
+         cx="77.272369"
+         cy="130.96107" />
+      <ellipse
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         ry="8.9136"
+         rx="9.0228481"
+         style="opacity:0.647;fill:url(#radialGradient1725);fill-opacity:1;stroke:none;stroke-width:1.29123878;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1779-7-3-9-3"
+         cx="76.001564"
+         cy="132.4753" />
+    </g>
   </g>
 </svg>
