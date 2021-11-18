@@ -666,9 +666,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="290.20713"
-     inkscape:cy="616.47017"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="268.27904"
+     inkscape:cy="568.70572"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1624,7 +1624,7 @@
     </g>
     <g
        id="g4204"
-       transform="matrix(0.78469235,0,0,0.78469235,43.623877,15.245816)"
+       transform="matrix(0.78469235,0,0,0.78469235,41.940079,15.152272)"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <path
@@ -1641,7 +1641,7 @@
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path1891-5-2"
-         d="m 23.597102,182.00784 16.388438,-30.95395 72.47442,0"
+         d="m 25.905508,181.80309 14.080032,-30.7492 74.91826,0"
          style="fill:none;fill-opacity:0;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-3-6);marker-end:url(#marker2770-75-9)" />
     </g>
     <flowRoot
@@ -1772,7 +1772,7 @@
            id="rect2070" /></flowRegion><flowPara
          id="flowPara2072">Worthwil gamle</flowPara></flowRoot>    <g
        id="g1755"
-       transform="translate(2.3812499,0.79374998)"
+       transform="translate(0.79374983,0.79374998)"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <rect
@@ -1819,9 +1819,9 @@
            width="111"
            id="rect2070-1" /></flowRegion><flowPara
          id="flowPara2072-0">Worthwil gamle</flowPara></flowRoot>    <circle
-       style="opacity:1;fill:#917c6f;fill-opacity:0.61057693;stroke:#917c6f;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#917c6f;fill-opacity:0.61057691;stroke:#917c6f;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1699"
-       cx="75.114265"
+       cx="73.526764"
        cy="133.74738"
        r="4.0348959"
        inkscape:export-xdpi="300"
