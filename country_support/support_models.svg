@@ -31,10 +31,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="477.23433"
+     inkscape:cx="563.56864"
      inkscape:cy="376.85259"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1554"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -354,7 +354,7 @@
              inkscape:connection-end="#path10-82" />
           <path
              style="fill:#5fd38d;fill-rule:evenodd;stroke:#5fd38d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 125.7528,44.05135 h 46.71762"
+             d="m 125.7528,44.05135 46.71762,0"
              id="path1084"
              inkscape:connector-type="polyline"
              inkscape:connector-curvature="0"
@@ -604,14 +604,14 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:5.90227px;line-height:1.25;font-family:sans-serif;fill:#87a9dd;fill-opacity:1;stroke:none;stroke-width:0.227253"
-           x="195.22797"
+           x="194.47202"
            y="64.847305"
            id="text1267-9"><tspan
              sodipodi:role="line"
              id="tspan1265-14"
-             x="195.22797"
+             x="194.47202"
              y="64.847305"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.90227px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#87a9dd;fill-opacity:1;stroke-width:0.227253">Federated model</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.90227px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#87a9dd;fill-opacity:1;stroke-width:0.227253">Community model</tspan></text>
       </g>
     </g>
     <text
