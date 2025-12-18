@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="modelled_scenarios.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1857237"
+     inkscape:cx="571.80268"
+     inkscape:cy="403.55101"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path60" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m -210.61867,82.365739 c 0,-2.97629 2.413,-5.38929 5.3893,-5.38929 h 42.93182 c 2.9763,0 5.3893,2.413 5.3893,5.38929 v 82.090151 c 0,2.97629 -2.413,5.38929 -5.3893,5.38929 h -42.93182 c -2.9763,0 -5.3893,-2.413 -5.3893,-5.38929 z"
+       stroke="#d9d9d9"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbfbfb"
+       fill-rule="evenodd"
+       id="path1" />
+    <path
+       d="m -280.46867,61.236647 c 0,-2.85115 2.31119,-5.162285 5.16218,-5.162285 h 27.24637 c 2.85115,0 5.16228,2.311135 5.16228,5.162285 V 185.3204 c 0,2.85115 -2.31113,5.16228 -5.16228,5.16228 h -27.24637 c -2.85099,0 -5.16218,-2.31113 -5.16218,-5.16228 z"
+       stroke="#f2aa84"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fef8f4"
+       fill-rule="evenodd"
+       id="path2" />
+    <path
+       d="m -125.15825,77.100799 c 0,-3.575579 2.89877,-6.474354 6.47435,-6.474354 h 91.561709 c 3.57558,0 6.47435,2.898775 6.47435,6.474354 v 92.355451 c 0,3.57558 -2.89877,6.47435 -6.47435,6.47435 H -118.6839 c -3.57558,0 -6.47435,-2.89877 -6.47435,-6.47435 z"
+       stroke="#a6caec"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#f2f7fc"
+       fill-rule="evenodd"
+       id="path3" />
+    <path
+       d="m -276.49992,83.458739 c 0,-0.80354 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65167 1.45521,1.45521 v 5.82083 c 0,0.80354 -0.6514,1.45521 -1.45521,1.45521 h -27.25203 c -0.80372,0 -1.45526,-0.65167 -1.45526,-1.45521 z"
+       stroke="#c04f15"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbe3d6"
+       fill-rule="evenodd"
+       id="path4" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text4"
+       x="-273.66916"
+       y="87.824356"
+       style="stroke-width:0.264583">50K stockpile</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="700"
+       font-size="4.23333px"
+       id="text5"
+       x="-205.48152"
+       y="84.913948"
+       style="stroke-width:0.264583">Preventive vaccination</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="700"
+       font-size="4.23333px"
+       id="text6"
+       x="-200.56212"
+       y="89.941025"
+       style="stroke-width:0.264583">of healthcare and</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="700"
+       font-size="4.23333px"
+       id="text7"
+       x="-200.03296"
+       y="94.968102"
+       style="stroke-width:0.264583">frontline workers</text>
+    <path
+       d="m -206.12075,150.08981 c 0,-1.6563 1.34249,-2.99879 2.99878,-2.99879 h 38.98186 c 1.65603,0 2.99852,1.34249 2.99852,2.99879 v 11.99409 c 0,1.65629 -1.34249,2.99878 -2.99852,2.99878 h -38.98186 c -1.65629,0 -2.99878,-1.34249 -2.99878,-2.99878 z"
+       stroke="#7f7f7f"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#d9d9d9"
+       fill-rule="evenodd"
+       id="path7" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text8"
+       x="-202.26366"
+       y="155.02852"
+       style="stroke-width:0.264583">Low worker turnover</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text9"
+       x="-197.90334"
+       y="160.0556"
+       style="stroke-width:0.264583">and low waning</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="700"
+       font-size="4.23333px"
+       id="text10"
+       x="-275.57892"
+       y="63.747276"
+       style="stroke-width:0.264583">Stockpile sizes</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="700"
+       font-size="5.02708px"
+       id="text11"
+       x="-113.58696"
+       y="79.357697"
+       style="stroke-width:0.264583">Two outbreak scenarios over 5 years</text>
+    <path
+       d="m -120.39575,88.706479 c 0,-1.65629 1.34249,-2.99878 2.99879,-2.99878 h 88.194089 c 1.65629,0 2.99878,1.34249 2.99878,2.99878 v 11.994081 c 0,1.6563 -1.34249,2.99879 -2.99878,2.99879 h -88.194089 c -1.6563,0 -2.99879,-1.34249 -2.99879,-2.99879 z"
+       stroke="#042433"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#a7c9eb"
+       fill-rule="evenodd"
+       id="path11" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text12"
+       x="-113.44039"
+       y="93.909775"
+       style="stroke-width:0.264583">Main scenario</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text13"
+       x="-108.78213"
+       y="98.936852"
+       style="stroke-width:0.264583">outbreak</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text14"
+       x="-59.45084"
+       y="93.909775"
+       style="stroke-width:0.264583">Main outbreak</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text15"
+       x="-54.275578"
+       y="98.936852"
+       style="stroke-width:0.264583">scenario</text>
+    <path
+       d="m -77.336931,94.237069 h 2.11534 v -2.21271 h 1.99126 v 2.21271 h 2.11534 v 1.991246 h -2.11534 v 2.21271 h -1.99126 v -2.21271 h -2.11534 z"
+       stroke="#042433"
+       stroke-width="0.0881943"
+       stroke-miterlimit="8"
+       fill="#156082"
+       fill-rule="evenodd"
+       id="path15" />
+    <path
+       d="m -120.39575,110.93147 c 0,-1.65629 1.34249,-2.99878 2.99879,-2.99878 h 88.194089 c 1.65629,0 2.99878,1.34249 2.99878,2.99878 v 11.99409 c 0,1.6563 -1.34249,2.99879 -2.99878,2.99879 h -88.194089 c -1.6563,0 -2.99879,-1.34249 -2.99879,-2.99879 z"
+       stroke="#042433"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#a7c9eb"
+       fill-rule="evenodd"
+       id="path16" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text16"
+       x="-113.44039"
+       y="116.39935"
+       style="stroke-width:0.264583">Main scenario</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text17"
+       x="-108.78213"
+       y="121.42643"
+       style="stroke-width:0.264583">outbreak</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text18"
+       x="-64.811554"
+       y="115.87019"
+       style="stroke-width:0.264583">High transmissibility</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text19"
+       x="-54.397556"
+       y="120.89727"
+       style="stroke-width:0.264583">outbreak</text>
+    <path
+       d="m -77.072351,116.19748 h 2.11534 v -2.21272 h 1.99126 v 2.21272 h 2.11534 v 1.99125 h -2.11534 v 2.21271 h -1.99126 v -2.21271 h -2.11534 z"
+       stroke="#042433"
+       stroke-width="0.0881943"
+       stroke-miterlimit="8"
+       fill="#156082"
+       fill-rule="evenodd"
+       id="path19" />
+    <path
+       d="m -120.39575,133.15647 c 0,-1.65629 1.34249,-2.99878 2.99879,-2.99878 h 88.194089 c 1.65629,0 2.99878,1.34249 2.99878,2.99878 v 11.99409 c 0,1.6563 -1.34249,2.99879 -2.99878,2.99879 h -88.194089 c -1.6563,0 -2.99879,-1.34249 -2.99879,-2.99879 z"
+       stroke="#042433"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#a7c9eb"
+       fill-rule="evenodd"
+       id="path20" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text20"
+       x="-113.44039"
+       y="138.0952"
+       style="stroke-width:0.264583">Main scenario</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text21"
+       x="-108.78213"
+       y="143.12227"
+       style="stroke-width:0.264583">outbreak</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text22"
+       x="-56.490147"
+       y="138.0952"
+       style="stroke-width:0.264583">Worst case</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text23"
+       x="-54.534077"
+       y="143.12227"
+       style="stroke-width:0.264583">outbreak</text>
+    <path
+       d="m -77.072351,137.49643 h 2.11534 v -2.11534 h 1.99126 v 2.11534 h 2.11534 v 1.99126 h -2.11534 v 2.11534 h -1.99126 v -2.11534 h -2.11534 z"
+       stroke="#042433"
+       stroke-width="0.0881943"
+       stroke-miterlimit="8"
+       fill="#156082"
+       fill-rule="evenodd"
+       id="path23" />
+    <path
+       d="m -120.39575,155.38147 c 0,-1.65629 1.34249,-2.99878 2.99879,-2.99878 h 88.194089 c 1.65629,0 2.99878,1.34249 2.99878,2.99878 v 11.99409 c 0,1.6563 -1.34249,2.99879 -2.99878,2.99879 h -88.194089 c -1.6563,0 -2.99879,-1.34249 -2.99879,-2.99879 z"
+       stroke="#042433"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#a7c9eb"
+       fill-rule="evenodd"
+       id="path24" />
+    <path
+       d="m -77.072351,159.72143 h 2.11534 v -2.11534 h 1.99126 v 2.11534 h 2.11534 v 1.99126 h -2.11534 v 2.11534 h -1.99126 v -2.11534 h -2.11534 z"
+       stroke="#042433"
+       stroke-width="0.0881943"
+       stroke-miterlimit="8"
+       fill="#156082"
+       fill-rule="evenodd"
+       id="path25" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text25"
+       x="-119.16201"
+       y="160.32019"
+       style="stroke-width:0.264583">High transmissibility</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text26"
+       x="-108.748"
+       y="165.34727"
+       style="stroke-width:0.264583">outbreak</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text27"
+       x="-64.811554"
+       y="160.32019"
+       style="stroke-width:0.264583">High transmissibility</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text28"
+       x="-54.397556"
+       y="165.34727"
+       style="stroke-width:0.264583">outbreak</text>
+    <path
+       d="m -276.49992,95.056219 c 0,-0.7792 0.6318,-1.41102 1.41116,-1.41102 h 27.34032 c 0.7792,0 1.41102,0.63182 1.41102,1.41102 v 5.644611 c 0,0.7792 -0.63182,1.41102 -1.41102,1.41102 h -27.34032 c -0.77936,0 -1.41116,-0.63182 -1.41116,-1.41102 z"
+       stroke="#c04f15"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbe3d6"
+       fill-rule="evenodd"
+       id="path28" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text29"
+       x="-274.79361"
+       y="99.466026"
+       style="stroke-width:0.264583">100K stockpile</text>
+    <path
+       d="m -276.49992,106.96246 c 0,-0.7792 0.6318,-1.41102 1.41116,-1.41102 h 27.34032 c 0.7792,0 1.41102,0.63182 1.41102,1.41102 v 5.64462 c 0,0.7792 -0.63182,1.41102 -1.41102,1.41102 h -27.34032 c -0.77936,0 -1.41116,-0.63182 -1.41116,-1.41102 z"
+       stroke="#c04f15"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbe3d6"
+       fill-rule="evenodd"
+       id="path29" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text30"
+       x="-274.79361"
+       y="111.37228"
+       style="stroke-width:0.264583">150K stockpile</text>
+    <path
+       d="m -276.49992,118.64831 c 0,-0.8038 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65141 1.45521,1.45521 v 5.82083 c 0,0.80381 -0.6514,1.45521 -1.45521,1.45521 h -27.25203 c -0.80372,0 -1.45526,-0.6514 -1.45526,-1.45521 z"
+       stroke="#c04f15"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbe3d6"
+       fill-rule="evenodd"
+       id="path30" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text31"
+       x="-274.79361"
+       y="123.27852"
+       style="stroke-width:0.264583">200K stockpile</text>
+    <path
+       d="m -276.49992,130.55456 c 0,-0.8038 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65141 1.45521,1.45521 v 5.82083 c 0,0.80381 -0.6514,1.45521 -1.45521,1.45521 h -27.25203 c -0.80372,0 -1.45526,-0.6514 -1.45526,-1.45521 z"
+       stroke="#c04f15"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbe3d6"
+       fill-rule="evenodd"
+       id="path31" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text32"
+       x="-274.79361"
+       y="135.18477"
+       style="stroke-width:0.264583">250K stockpile</text>
+    <path
+       d="m -276.49992,142.46081 c 0,-0.8038 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65141 1.45521,1.45521 v 5.82083 c 0,0.80381 -0.6514,1.45521 -1.45521,1.45521 h -27.25203 c -0.80372,0 -1.45526,-0.6514 -1.45526,-1.45521 z"
+       stroke="#c04f15"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbe3d6"
+       fill-rule="evenodd"
+       id="path32" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text33"
+       x="-274.79361"
+       y="147.09102"
+       style="stroke-width:0.264583">300K stockpile</text>
+    <path
+       d="m -276.49992,154.36706 c 0,-0.8038 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65141 1.45521,1.45521 v 5.82083 c 0,0.80381 -0.6514,1.45521 -1.45521,1.45521 h -27.25203 c -0.80372,0 -1.45526,-0.6514 -1.45526,-1.45521 z"
+       stroke="#c04f15"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbe3d6"
+       fill-rule="evenodd"
+       id="path33" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text34"
+       x="-274.79361"
+       y="158.99727"
+       style="stroke-width:0.264583">400K stockpile</text>
+    <path
+       d="m -276.49992,166.22912 c 0,-0.77919 0.6318,-1.41102 1.41116,-1.41102 h 27.34032 c 0.7792,0 1.41102,0.63183 1.41102,1.41102 v 5.64463 c 0,0.77919 -0.63182,1.41102 -1.41102,1.41102 h -27.34032 c -0.77936,0 -1.41116,-0.63183 -1.41116,-1.41102 z"
+       stroke="#c04f15"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbe3d6"
+       fill-rule="evenodd"
+       id="path34" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text35"
+       x="-274.79361"
+       y="170.90352"
+       style="stroke-width:0.264583">500K stockpile</text>
+    <path
+       d="m -276.49992,178.13537 c 0,-0.77919 0.63177,-1.41102 1.41113,-1.41102 h 27.07576 c 0.7792,0 1.41103,0.63183 1.41103,1.41102 V 183.78 c 0,0.77919 -0.63183,1.41102 -1.41103,1.41102 h -27.07576 c -0.77936,0 -1.41113,-0.63183 -1.41113,-1.41102 z"
+       stroke="#c04f15"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbe3d6"
+       fill-rule="evenodd"
+       id="path35" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text36"
+       x="-275.52548"
+       y="182.54518"
+       style="stroke-width:0.264583">100M stockpile</text>
+    <path
+       d="m -276.23534,71.772885 c 0,-0.779198 0.6318,-1.411023 1.41116,-1.411023 h 27.34032 c 0.7792,0 1.41102,0.631825 1.41102,1.411023 v 5.644624 c 0,0.77919 -0.63182,1.41102 -1.41102,1.41102 h -27.34032 c -0.77936,0 -1.41116,-0.63183 -1.41116,-1.41102 z"
+       stroke="#c04f15"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#fbe3d6"
+       fill-rule="evenodd"
+       id="path36" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text37"
+       x="-272.3457"
+       y="75.918106"
+       style="stroke-width:0.264583">no stockpile</text>
+    <path
+       d="m -206.12075,127.86481 c 0,-1.6563 1.34249,-2.99879 2.99878,-2.99879 h 38.98186 c 1.65603,0 2.99852,1.34249 2.99852,2.99879 v 11.99409 c 0,1.65629 -1.34249,2.99879 -2.99852,2.99879 h -38.98186 c -1.65629,0 -2.99878,-1.3425 -2.99878,-2.99879 z"
+       stroke="#7f7f7f"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#d9d9d9"
+       fill-rule="evenodd"
+       id="path37" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text38"
+       x="-202.73462"
+       y="132.53894"
+       style="stroke-width:0.264583">High worker turnover</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text39"
+       x="-198.55077"
+       y="137.56602"
+       style="stroke-width:0.264583">and high waning</text>
+    <path
+       d="m -206.12075,105.37522 c 0,-1.65629 1.34249,-2.99878 2.99878,-2.99878 h 38.98186 c 1.65603,0 2.99852,1.34249 2.99852,2.99878 v 11.99409 c 0,1.6563 -1.34249,2.99879 -2.99852,2.99879 h -38.98186 c -1.65629,0 -2.99878,-1.34249 -2.99878,-2.99879 z"
+       stroke="#7f7f7f"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#d9d9d9"
+       fill-rule="evenodd"
+       id="path39" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text40"
+       x="-196.33701"
+       y="110.31395"
+       style="stroke-width:0.264583">No preventive</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="4.23333px"
+       id="text41"
+       x="-194.35791"
+       y="115.34103"
+       style="stroke-width:0.264583">vaccination</text>
+    <path
+       d="m -238.92909,119.70664 h 16.66875 v -3.57187 l 7.14375,7.14375 -7.14375,7.14375 v -3.57188 h -16.66875 z"
+       stroke="#bfbfbf"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#f2f2f2"
+       fill-rule="evenodd"
+       id="path41" />
+    <path
+       d="m -153.20409,119.70664 h 16.66875 v -3.57187 l 7.14375,7.14375 -7.14375,7.14375 v -3.57188 h -16.66875 z"
+       stroke="#bfbfbf"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#f2f2f2"
+       fill-rule="evenodd"
+       id="path42" />
+    <path
+       d="m -72.399479,294.37464 h 16.66875 v -3.57187 l 7.14375,7.14375 -7.14375,7.14375 v -3.57188 h -16.66875 z"
+       stroke="#bfbfbf"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#f2f2f2"
+       fill-rule="evenodd"
+       id="path43" />
+    <path
+       d="m -44.089059,235.86812 c 0,-2.83078 2.29393,-5.12577 5.12498,-5.12577 h 27.05629 c 2.8310396,0 5.1249796,2.29499 5.1249796,5.12577 v 124.15679 c 0,2.83078 -2.29394,5.12577 -5.1249796,5.12577 h -27.05629 c -2.83105,0 -5.12498,-2.29499 -5.12498,-5.12577 z"
+       stroke="#4ea72e"
+       stroke-width="0.529167"
+       stroke-miterlimit="8"
+       fill="#f0faec"
+       fill-rule="evenodd"
+       id="path44" />
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="700"
+       font-size="5.02708px"
+       id="text44"
+       x="-32.315113"
+       y="297.15277"
+       style="stroke-width:0.264583">Model</text>
+    <text
+       font-family="Aptos, Aptos_MSFontService, sans-serif"
+       font-weight="700"
+       font-size="5.02708px"
+       id="text45"
+       x="-38.641285"
+       y="303.23819"
+       style="stroke-width:0.264583">simulations</text>
+    <path
+       id="path5-1"
+       style="fill:#ff0000;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:transform-center-y="6.6614986"
+       d="m -57.570302,58.578494 c -10.16466,0 -31.2644,-48.9942503 -29.77562,-51.5728903 1.48878,-2.57865 58.06246,-2.57865 59.55125,0 1.48878,2.57864 -20.15664,51.5728903 -29.77563,51.5728903 z"
+       sodipodi:nodetypes="ssss" />
+    <ellipse
+       style="fill:#ccff00;stroke:#ccff00;stroke-width:0.880206;stroke-linecap:round;stroke-linejoin:round"
+       id="path6-7"
+       cx="-57.57085"
+       cy="5.6435747"
+       rx="30.481344"
+       ry="10.837001" />
+    <ellipse
+       style="fill:#ccff00;stroke:#ccff00;stroke-width:0.356941;stroke-linecap:round;stroke-linejoin:round"
+       id="path6-8-1"
+       cx="-57.57085"
+       cy="48.426929"
+       rx="11.10501"
+       ry="4.8915672" />
+    <g
+       id="g10"
+       transform="matrix(1.5010282,0,0,1.5010282,-125.25885,-83.060947)">
+      <path
+         style="fill:#ffffff;stroke:#afc6e9;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 177.76688,156.51297 c -1.72005,-0.17196 -4.26705,-0.90499 -5.77906,-1.66319 l -1.63116,-0.81795 c 0,0 -1.27808,-1.8747 -1.81682,-2.87082 -16.94999,-31.34043 -0.14558,-0.12875 -16.9989,-31.61838 -0.68507,-1.28003 -1.00964,-2.89871 -1.23751,-3.3762 -0.61869,-1.29643 -0.56696,-4.83213 0.12132,-6.15745 5.06013,-9.74343 37.82013,-12.891306 54.06673,-5.19522 5.3748,2.54606 7.90205,7.50027 6.75102,10.58097 -0.1784,0.47749 -0.53843,2.27882 -1.3429,3.76205 -16.86976,31.1032 0.14749,-0.11666 -16.97646,31.4083 -0.48037,0.88435 -1.07837,1.76044 -1.19505,2.02572 -0.30445,0.69216 -1.46784,2.01927 -1.80766,2.06205 -0.15874,0.02 -1.03787,0.3461 -1.95361,0.72472 -2.5255,1.04416 -6.58869,1.49645 -10.19994,1.1354 z"
+         id="path10"
+         sodipodi:nodetypes="sscssscssssssss" />
+      <ellipse
+         style="fill:#d7e3f4;stroke:#afc6e9;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path6-7-6"
+         cx="180.69446"
+         cy="113.99561"
+         rx="26.176279"
+         ry="11.159369" />
+    </g>
+    <path
+       style="fill:#d7e3f4;fill-opacity:1;stroke:#d7e3f4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 145.96863,139.99122 v 20.82753"
+       id="path59"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.7425px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#afc6e9;fill-opacity:1;stroke-width:0.503556"
+       x="146.52443"
+       y="196.53958"
+       id="text61"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#afc6e9;fill-opacity:1;stroke-width:0.503556"
+         x="146.52443"
+         y="196.53958">Model simulations</tspan></text>
+    <path
+       style="fill:#abc837;fill-opacity:1;stroke:#abc837;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 214.9029,69.891228 172.04242,81.386261"
+       id="path52-8"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g54"
+       transform="translate(6.7128027,-3.4619667)">
+      <circle
+         style="fill:#abc837;fill-opacity:1;stroke:#ffffff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path12-3"
+         cx="166.78726"
+         cy="87.570145"
+         r="11.049942" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.33275px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.203097"
+         x="166.69101"
+         y="86.395271"
+         id="text24-4"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.203097"
+           x="166.69101"
+           y="86.395271"
+           id="tspan53">Outbreak</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.203097"
+           x="166.69101"
+           y="91.850723"
+           id="tspan54">scenario</tspan></text>
+    </g>
+    <path
+       style="fill:#f1a35b;fill-opacity:1;stroke:#f1a35b;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 120.4573,87.369617 65.987142,64.234687"
+       id="path26"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#7f7f7f;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 143.46752,54.223214 2.90083,18.297543"
+       id="path52"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g53"
+       transform="matrix(0.81381777,0,0,0.81381777,-0.25638265,5.2259365)">
+      <rect
+         style="fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect38"
+         width="92.653107"
+         height="53.275261"
+         x="133.50455"
+         y="8.6816549"
+         rx="3.7717736"
+         ry="3.7717736" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.93889px;line-height:1.05;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:150.711;display:inline;fill:#666666;stroke-width:0.203097"
+         x="146.17902"
+         y="15.325191"
+         id="text24-40"
+         transform="translate(33.471119,-0.66942238)"><tspan
+           x="146.17902"
+           y="15.325191"
+           id="tspan2"><tspan
+             style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+             id="tspan1">Preventive vaccination of healthcare 
+</tspan></tspan><tspan
+           x="146.17902"
+           y="20.556071"
+           id="tspan4"><tspan
+             style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+             id="tspan3">and frontline workers</tspan></tspan></text>
+      <g
+         id="g51"
+         transform="translate(-6.7458229,-5.3553791)">
+        <rect
+           style="fill:#d9d9d9;fill-opacity:1;stroke:#999999;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect38-7-0-9"
+           width="84.100258"
+           height="9.4688816"
+           x="144.52679"
+           y="29.395683"
+           rx="2.6672838"
+           ry="2.6672838" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="186.54306"
+           y="35.182106"
+           id="text42"><tspan
+             sodipodi:role="line"
+             id="tspan38"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Aptos, Aptos_MSFontService, sans-serif;-inkscape-font-specification:'Aptos, Aptos_MSFontService, sans-serif';stroke-width:0.264583"
+             x="186.54306"
+             y="35.182106">No preventive vaccination</tspan></text>
+      </g>
+      <g
+         id="g50"
+         transform="translate(3.9037437,6.0248015)">
+        <rect
+           style="fill:#d9d9d9;fill-opacity:1;stroke:#999999;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect38-7-0"
+           width="84.100258"
+           height="9.4688816"
+           x="133.87723"
+           y="42.711258"
+           rx="2.6672838"
+           ry="2.6672838" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.05;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="175.90196"
+           y="48.54636"
+           id="text42-0"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.05;font-family:Aptos, Aptos_MSFontService, sans-serif;-inkscape-font-specification:'Aptos, Aptos_MSFontService, sans-serif';stroke-width:0.264583"
+             x="175.90196"
+             y="48.54636"
+             id="tspan42">High worker turnover and high waning</tspan></text>
+      </g>
+      <g
+         id="g49"
+         transform="translate(-53.670734,-91.228044)">
+        <rect
+           style="fill:#d9d9d9;fill-opacity:1;stroke:#999999;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect38-7-0-2"
+           width="84.100258"
+           height="9.4688816"
+           x="191.45171"
+           y="127.61623"
+           rx="2.6672838"
+           ry="2.6672838" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.05;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="233.47644"
+           y="133.45134"
+           id="text42-0-7"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.05;font-family:Aptos, Aptos_MSFontService, sans-serif;-inkscape-font-specification:'Aptos, Aptos_MSFontService, sans-serif';stroke-width:0.264583"
+             x="233.47644"
+             y="133.45134"
+             id="tspan42-7">Low worker turnover and low waning</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g37"
+       transform="translate(-8.0274944,7.5496387)">
+      <circle
+         style="fill:#7f7f7f;fill-opacity:1;stroke:#ffffff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path12-9"
+         cx="155.52348"
+         cy="71.939056"
+         r="11.049942" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.65713px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.171427"
+         x="155.62616"
+         y="70.946487"
+         id="text24-0"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.171427"
+           x="155.62616"
+           y="70.946487"
+           id="tspan24-6">HCW</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.171427"
+           x="155.62616"
+           y="75.551254"
+           id="tspan36">vaccination</tspan></text>
+    </g>
+    <g
+       id="g61"
+       transform="matrix(0.81381777,0,0,0.81381777,30.762626,6.6969453)">
+      <path
+         d="m 12.804238,24.476867 c 0,-2.85115 2.31119,-5.162285 5.16218,-5.162285 h 27.24637 c 2.85115,0 5.16228,2.311135 5.16228,5.162285 V 155.96895 c 0,2.85115 -2.31113,5.16228 -5.16228,5.16228 h -27.24637 c -2.85099,0 -5.16218,-2.31113 -5.16218,-5.16228 z"
+         stroke="#f2aa84"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fef8f4"
+         fill-rule="evenodd"
+         id="path2-2"
+         sodipodi:nodetypes="sssssssss"
+         style="stroke:#da7213;stroke-opacity:1" />
+      <path
+         d="m 16.508403,58.499372 c 0,-0.80354 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65167 1.45521,1.45521 v 5.82083 c 0,0.80354 -0.6514,1.45521 -1.45521,1.45521 h -27.25203 c -0.80372,0 -1.45526,-0.65167 -1.45526,-1.45521 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path4-2"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text4-1"
+         x="21.465649"
+         y="62.997284"
+         style="stroke-width:0.264583">50K doses</text>
+      <path
+         d="m 16.508403,46.910621 c 0,-0.80354 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65167 1.45521,1.45521 v 5.82083 c 0,0.80354 -0.6514,1.45521 -1.45521,1.45521 h -27.25203 c -0.80372,0 -1.45526,-0.65167 -1.45526,-1.45521 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path4-2-7"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text4-1-4"
+         x="21.410614"
+         y="51.408535"
+         style="stroke-width:0.264583">10K doses</text>
+      <path
+         d="m 16.508403,70.043933 c 0,-0.7792 0.6318,-1.41102 1.41116,-1.41102 h 27.34032 c 0.7792,0 1.41102,0.63182 1.41102,1.41102 v 5.644611 c 0,0.7792 -0.63182,1.41102 -1.41102,1.41102 h -27.34032 c -0.77936,0 -1.41116,-0.63182 -1.41116,-1.41102 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path28-8"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text29-5"
+         x="20.199883"
+         y="74.453743"
+         style="stroke-width:0.264583">100K doses</text>
+      <path
+         d="m 16.508403,81.368086 c 0,-0.7792 0.6318,-1.41102 1.41116,-1.41102 h 27.34032 c 0.7792,0 1.41102,0.63182 1.41102,1.41102 v 5.64462 c 0,0.7792 -0.63182,1.41102 -1.41102,1.41102 h -27.34032 c -0.77936,0 -1.41116,-0.63182 -1.41116,-1.41102 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path29-7"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text30-6"
+         x="20.199883"
+         y="85.777893"
+         style="stroke-width:0.264583">150K doses</text>
+      <path
+         d="m 16.508403,92.736437 c 0,-0.8038 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65141 1.45521,1.45521 v 5.82083 c 0,0.80381 -0.6514,1.455213 -1.45521,1.455213 h -27.25203 c -0.80372,0 -1.45526,-0.651403 -1.45526,-1.455213 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path30-1"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text31-8"
+         x="20.286667"
+         y="97.234352"
+         style="stroke-width:0.264583">200K doses</text>
+      <path
+         d="m 16.508403,104.32519 c 0,-0.8038 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65141 1.45521,1.45521 v 5.82083 c 0,0.80381 -0.6514,1.45521 -1.45521,1.45521 h -27.25203 c -0.80372,0 -1.45526,-0.6514 -1.45526,-1.45521 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path31-9"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text32-2"
+         x="20.286667"
+         y="108.8231"
+         style="stroke-width:0.264583">250K doses</text>
+      <path
+         d="m 16.508403,115.91394 c 0,-0.8038 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65141 1.45521,1.45521 v 5.82083 c 0,0.80381 -0.6514,1.45521 -1.45521,1.45521 h -27.25203 c -0.80372,0 -1.45526,-0.6514 -1.45526,-1.45521 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path32-7"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text33-9"
+         x="20.293018"
+         y="120.41185"
+         style="stroke-width:0.264583">300K doses</text>
+      <path
+         d="m 16.508403,127.50269 c 0,-0.8038 0.65154,-1.45521 1.45526,-1.45521 h 27.25203 c 0.80381,0 1.45521,0.65141 1.45521,1.45521 v 5.82083 c 0,0.80381 -0.6514,1.45521 -1.45521,1.45521 h -27.25203 c -0.80372,0 -1.45526,-0.6514 -1.45526,-1.45521 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path33-5"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text34-4"
+         x="20.343815"
+         y="132.0006"
+         style="stroke-width:0.264583">400K doses</text>
+      <path
+         d="m 16.508403,139.04725 c 0,-0.77919 0.6318,-1.41102 1.41116,-1.41102 h 27.34032 c 0.7792,0 1.41102,0.63183 1.41102,1.41102 v 5.64463 c 0,0.77919 -0.63182,1.41102 -1.41102,1.41102 h -27.34032 c -0.77936,0 -1.41116,-0.63183 -1.41116,-1.41102 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path34-3"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text35-1"
+         x="20.254913"
+         y="143.45708"
+         style="stroke-width:0.264583">500K doses</text>
+      <path
+         d="m 16.640693,150.37142 c 0,-0.77919 0.63177,-1.41102 1.41113,-1.41102 h 27.07576 c 0.7792,0 1.41103,0.63183 1.41103,1.41102 v 5.64463 c 0,0.77919 -0.63183,1.41102 -1.41103,1.41102 h -27.07576 c -0.77936,0 -1.41113,-0.63183 -1.41113,-1.41102 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path35-2"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text36-3"
+         x="19.590282"
+         y="154.78123"
+         style="stroke-width:0.264583">100M doses</text>
+      <path
+         d="m 16.508403,35.542266 c 0,-0.779198 0.6318,-1.411023 1.41116,-1.411023 h 27.34032 c 0.7792,0 1.41102,0.631825 1.41102,1.411023 v 5.644624 c 0,0.77919 -0.63182,1.41102 -1.41102,1.41102 h -27.34032 c -0.77936,0 -1.41116,-0.63183 -1.41116,-1.41102 z"
+         stroke="#c04f15"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#fbe3d6"
+         fill-rule="evenodd"
+         id="path36-3"
+         style="stroke:#ff9955" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="4.23333px"
+         id="text37-4"
+         x="19.586052"
+         y="39.465237"
+         style="stroke-width:0.264583">no stockpile</text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.93889px;line-height:1.05;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:150.711;display:inline;fill:#d97113;fill-opacity:1;stroke-width:0.203097"
+         x="146.17902"
+         y="15.325191"
+         id="text24-40-8"
+         transform="translate(-114.67926,9.1182665)"><tspan
+           x="146.17902"
+           y="15.325191"
+           id="tspan6"><tspan
+             style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+             id="tspan5">Stockpile 
+</tspan></tspan><tspan
+           x="146.17902"
+           y="20.556071"
+           id="tspan8"><tspan
+             style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+             id="tspan7">size</tspan></tspan></text>
+    </g>
+    <g
+       id="g38"
+       transform="translate(-9.4657335,10.524518)">
+      <circle
+         style="fill:#f1a35b;fill-opacity:1;stroke:#ffffff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path12"
+         cx="133.00856"
+         cy="77.622429"
+         r="11.049942" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.33275px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.203097"
+         x="133.00116"
+         y="76.446495"
+         id="text24"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.203097"
+           x="133.00116"
+           y="76.446495">Stockpile</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.203097"
+           x="133.00116"
+           y="81.901947"
+           id="tspan24">size</tspan></text>
+    </g>
+    <g
+       id="g59"
+       transform="matrix(0.81381777,0,0,0.81381777,50.482345,24.051385)">
+      <path
+         d="m 191.93783,24.610366 c 0,-3.575579 2.89877,-6.474354 6.47435,-6.474354 h 91.56171 c 3.57558,0 6.47435,2.898775 6.47435,6.474354 v 92.355444 c 0,3.57558 -2.89877,6.47435 -6.47435,6.47435 h -91.56171 c -3.57558,0 -6.47435,-2.89877 -6.47435,-6.47435 z"
+         stroke="#a6caec"
+         stroke-width="0.529167"
+         stroke-miterlimit="8"
+         fill="#f2f7fc"
+         fill-rule="evenodd"
+         id="path3-0"
+         style="fill:#eef4d7;stroke:#89a02c" />
+      <text
+         font-family="Aptos, Aptos_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="5.02708px"
+         id="text11-9"
+         x="198.58234"
+         y="26.867264"
+         style="fill:#668000;stroke-width:0.264583">Two outbreak scenarios over 5 years</text>
+      <g
+         id="g55">
+        <path
+           d="m 195.20575,36.220919 c 0,-1.656085 1.39641,-2.998409 3.11923,-2.998409 h 91.73612 c 1.72281,0 3.11922,1.342324 3.11922,2.998409 v 11.992595 c 0,1.656095 -1.39641,2.998418 -3.11922,2.998418 h -91.73612 c -1.72282,0 -3.11923,-1.342323 -3.11923,-2.998418 z"
+           stroke="#042433"
+           stroke-width="0.539655"
+           stroke-miterlimit="8"
+           fill="#a7c9eb"
+           fill-rule="evenodd"
+           id="path11-4"
+           style="fill:#dde9af;stroke:#abc837" />
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text12-7"
+           x="202.15587"
+           y="41.419338"
+           style="stroke-width:0.264583">Main scenario</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text13-8"
+           x="206.81413"
+           y="46.446415"
+           style="stroke-width:0.264583">outbreak</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text14-3"
+           x="256.14542"
+           y="41.419338"
+           style="stroke-width:0.264583">Main outbreak</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text15-5"
+           x="261.32068"
+           y="46.446415"
+           style="stroke-width:0.264583">scenario</text>
+        <path
+           d="m 238.25933,41.746636 h 2.11534 v -2.21271 h 1.99126 v 2.21271 h 2.11534 v 1.991246 h -2.11534 v 2.21271 h -1.99126 v -2.21271 h -2.11534 z"
+           stroke="#042433"
+           stroke-width="0.0881943"
+           stroke-miterlimit="8"
+           fill="#156082"
+           fill-rule="evenodd"
+           id="path15-1"
+           style="fill:#668000;fill-opacity:1;stroke:#668000;stroke-opacity:1" />
+      </g>
+      <g
+         id="g56"
+         transform="translate(0,0.52916667)">
+        <path
+           d="m 195.20575,58.443156 c 0,-1.656084 1.39641,-2.998408 3.11923,-2.998408 h 91.73612 c 1.72281,0 3.11922,1.342324 3.11922,2.998408 v 11.992605 c 0,1.656095 -1.39641,2.998418 -3.11922,2.998418 h -91.73612 c -1.72282,0 -3.11923,-1.342323 -3.11923,-2.998418 z"
+           stroke="#042433"
+           stroke-width="0.539655"
+           stroke-miterlimit="8"
+           fill="#a7c9eb"
+           fill-rule="evenodd"
+           id="path16-2"
+           style="fill:#dde9af;stroke:#abc837" />
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text16-0"
+           x="202.15587"
+           y="63.908916"
+           style="stroke-width:0.264583">Main scenario</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text17-1"
+           x="206.81413"
+           y="68.935997"
+           style="stroke-width:0.264583">outbreak</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text18-6"
+           x="250.7847"
+           y="63.379757"
+           style="stroke-width:0.264583">High transmissibility</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text19-4"
+           x="261.1987"
+           y="68.406837"
+           style="stroke-width:0.264583">outbreak</text>
+        <path
+           d="m 238.52391,63.707047 h 2.11534 v -2.21272 h 1.99126 v 2.21272 h 2.11534 v 1.99125 h -2.11534 v 2.21271 h -1.99126 v -2.21271 h -2.11534 z"
+           stroke="#042433"
+           stroke-width="0.0881943"
+           stroke-miterlimit="8"
+           fill="#156082"
+           fill-rule="evenodd"
+           id="path19-0"
+           style="fill:#668000;fill-opacity:1;stroke:#668000;stroke-opacity:1" />
+      </g>
+      <g
+         id="g57"
+         transform="translate(0,1.0583333)">
+        <path
+           d="m 195.20575,80.665403 c 0,-1.656085 1.39641,-2.998408 3.11923,-2.998408 h 91.73612 c 1.72281,0 3.11922,1.342323 3.11922,2.998408 v 11.992605 c 0,1.656094 -1.39641,2.998418 -3.11922,2.998418 h -91.73612 c -1.72282,0 -3.11923,-1.342324 -3.11923,-2.998418 z"
+           stroke="#042433"
+           stroke-width="0.539655"
+           stroke-miterlimit="8"
+           fill="#a7c9eb"
+           fill-rule="evenodd"
+           id="path20-6"
+           style="fill:#dde9af;stroke:#abc837" />
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text20-1"
+           x="202.15587"
+           y="85.604767"
+           style="stroke-width:0.264583">Main scenario</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text21-8"
+           x="206.81413"
+           y="90.631836"
+           style="stroke-width:0.264583">outbreak</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text22-9"
+           x="259.10611"
+           y="85.604767"
+           style="stroke-width:0.264583">Worst case</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text23-8"
+           x="261.06216"
+           y="90.631836"
+           style="stroke-width:0.264583">outbreak</text>
+        <path
+           d="m 238.52391,85.005997 h 2.11534 v -2.11534 h 1.99126 v 2.11534 h 2.11534 v 1.99126 h -2.11534 v 2.11534 h -1.99126 v -2.11534 h -2.11534 z"
+           stroke="#042433"
+           stroke-width="0.0881943"
+           stroke-miterlimit="8"
+           fill="#156082"
+           fill-rule="evenodd"
+           id="path23-4"
+           style="fill:#668000;fill-opacity:1;stroke:#668000;stroke-opacity:1" />
+      </g>
+      <g
+         id="g58"
+         transform="translate(0,1.5875)">
+        <path
+           d="m 195.20575,102.88765 c 0,-1.65608 1.39641,-2.998408 3.11923,-2.998408 h 91.73612 c 1.72281,0 3.11922,1.342328 3.11922,2.998408 v 11.9926 c 0,1.65609 -1.39641,2.99842 -3.11922,2.99842 h -91.73612 c -1.72282,0 -3.11923,-1.34233 -3.11923,-2.99842 z"
+           stroke="#042433"
+           stroke-width="0.539655"
+           stroke-miterlimit="8"
+           fill="#a7c9eb"
+           fill-rule="evenodd"
+           id="path24-1"
+           style="fill:#dde9af;stroke:#abc837" />
+        <path
+           d="m 238.52391,107.23099 h 2.11534 v -2.11534 h 1.99126 v 2.11534 h 2.11534 v 1.99126 h -2.11534 v 2.11534 h -1.99126 v -2.11534 h -2.11534 z"
+           stroke="#042433"
+           stroke-width="0.0881943"
+           stroke-miterlimit="8"
+           fill="#156082"
+           fill-rule="evenodd"
+           id="path25-4"
+           style="fill:#668000;fill-opacity:1;stroke:#668000;stroke-opacity:1" />
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text25-3"
+           x="196.43425"
+           y="107.82975"
+           style="stroke-width:0.264583">High transmissibility</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text26-9"
+           x="206.84825"
+           y="112.85683"
+           style="stroke-width:0.264583">outbreak</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text27-8"
+           x="250.7847"
+           y="107.82975"
+           style="stroke-width:0.264583">High transmissibility</text>
+        <text
+           font-family="Aptos, Aptos_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="4.23333px"
+           id="text28-8"
+           x="261.1987"
+           y="112.85683"
+           style="stroke-width:0.264583">outbreak</text>
+      </g>
+    </g>
+  </g>
+</svg>
