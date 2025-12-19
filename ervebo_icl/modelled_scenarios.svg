@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.83843328"
-     inkscape:cx="549.83504"
-     inkscape:cy="428.77592"
+     inkscape:zoom="0.59286186"
+     inkscape:cx="351.68395"
+     inkscape:cy="215.05853"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -717,15 +717,15 @@
        transform="matrix(0.81381777,0,0,0.81381777,14.700071,3.618717)"><tspan
          x="146.17902"
          y="15.325191"
-         id="tspan10"><tspan
+         id="tspan2"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-           id="tspan9">Preventive vaccination of healthcare 
+           id="tspan1">Preventive vaccination of healthcare 
 </tspan></tspan><tspan
          x="146.17902"
          y="20.556071"
-         id="tspan13"><tspan
+         id="tspan4"><tspan
            style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-           id="tspan11">and frontline workers</tspan></tspan></text>
+           id="tspan3">and frontline workers</tspan></tspan></text>
     <rect
        style="fill:#d9d9d9;fill-opacity:1;stroke:#999999;stroke-width:0.406908;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect38-7-0-9"
@@ -805,7 +805,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.171427"
            x="155.62616"
            y="70.946487"
-           id="tspan24-6">HCW</tspan><tspan
+           id="tspan24-6">HCW/FLW</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.171427"
            x="155.62616"
@@ -1004,15 +1004,15 @@
          transform="translate(-114.67926,9.1182665)"><tspan
            x="146.17902"
            y="15.325191"
-           id="tspan15"><tspan
+           id="tspan6"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-             id="tspan14">Stockpile 
+             id="tspan5">Stockpile 
 </tspan></tspan><tspan
            x="146.17902"
            y="20.556071"
-           id="tspan17"><tspan
+           id="tspan8"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-             id="tspan16">size</tspan></tspan></text>
+             id="tspan7">size</tspan></tspan></text>
     </g>
     <g
        id="g38"
